@@ -11,3 +11,4 @@ library(ggplot2)
 ggplot(SleevesEMG,aes(Condition, F_diff)) + geom_() + theme_classic()
 
 
+asdfas
